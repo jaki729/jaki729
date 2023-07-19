@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaki729
-- 👀 I’m interested in Research on interdiciplinary domains and mind set of mathematical ascpect of computer science to code.
+- 👀 I’m interested to work in Research on interdisciplinary domains and mind set of mathematical ascpect of computer science to code.
 - 💞️ I can collaborate for Research and Development.
 <!---
 jaki729/jaki729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
