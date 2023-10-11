@@ -9,7 +9,6 @@ I'm a passionate individual interested in research, particularly in interdiscipl
 I'm a curious individual with a diverse set of interests. Here are some of the domains that fascinate me:
 
 🧬 Research and Development
-
 📊 Data Science and Machine Learning
 💻 Software Development
 🧮 Mathematics and Computer Science
