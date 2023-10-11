@@ -11,11 +11,8 @@ I'm a curious individual with a diverse set of interests. Here are some of the d
 🧬 Research and Development
 
 📊 Data Science and Machine Learning
-
 💻 Software Development
-
 🧮 Mathematics and Computer Science
-
 🌐 Open Source Contribution
 
 ## Let's Collaborate
