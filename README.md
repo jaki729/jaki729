@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Jakiur Rahman
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsPiyush01&label=Profile%20views&color=0e75b6&style=flat" alt="itsPiyush01" /> </p>
+
 ## About Me
 
 I'm a passionate individual interested in research, particularly in interdisciplinary domains that combine mathematical aspects of computer science with coding. My goal is to contribute to the world of technology and science.
